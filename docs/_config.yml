@@ -1,1 +1,10 @@
+title: "Ha(ppy)Bit"
 theme: jekyll-theme-cayman
+
+header_pages:
+  - UserGuide.md
+  - DeveloperGuide.md
+  - AboutUs.md
+
+repository: "AY2122S1-CS2113T-F14-1/tp"
+github_icon: "Display_Images/github-icon.png"
